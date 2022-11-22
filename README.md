@@ -12,7 +12,7 @@ In the present day, there exists a wide range of software tools intended to draw
 1. [Project Description](CS5001_Assignments/ProjectDescription)
 2. User Stories and Design Diagrams
     1. [User Stories](CS5001_Assignments/UserStories_DesignDiagrams/UserStories)
-    2. [Design Diagrams](CS5001_Assignments/UserStories_DesignDiagrams/DesignDiagrams)
+    2. [Design Diagrams](CS5001_Assignments/UserStories_DesignDiagrams/Design Diagrams)
 3. Project Tasks and Timeline
     1. [Task List](CS5001_Assignments/ProjectTasksAndTimeline/TaskList)
     2. [Timeline](CS5001_Assignments/ProjectTasksAndTimeline/Timeline)
