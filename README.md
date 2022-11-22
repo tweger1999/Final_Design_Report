@@ -9,16 +9,16 @@ In the present day, there exists a wide range of software tools intended to draw
 
 ## Table of Contents
 
-1. Project Description
+1. [Project Description](Final_Design_Report/CS5001_Assignments/ProjectDescription)
 2. User Stories and Design Diagrams
-    1. User Stories
-    2. Design Diagrams
+    1. [User Stories](Final_Design_Report/CS5001_Assignments/UserStories_DesignDiagrams/UserStories)
+    2. [Design Diagrams](Final_Design_Report/CS5001_Assignments/UserStories_DesignDiagrams/DesignDiagrams)
 3. Project Tasks and Timeline
-    1. Task List
-    2. Timeline
-    3. Effort Matrix
-4. PPT Slideshow
-5. Self-Assessment Essays
-6. Professional Biographies
-7. Budget
-8. Appendix
+    1. [Task List](Final_Design_Report/CS5001_Assignments/ProjectTasksAndTimeline/TaskList)
+    2. [Timeline](Final_Design_Report/CS5001_Assignments/ProjectTasksAndTimeline/Timeline)
+    3. [Effort Matrix](Final_Design_Report/CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix)
+4. [PPT Slideshow](Final_Design_Report/CS5001_Assignments/Final_Design_Report/CS5001_Assignments/PPT_Slideshow)
+5. [Self-Assessment Essays](Final_Design_Report/CS5001_Assignments/SelfAssessmentEssays)
+6. [Professional Biographies](l_Design_Report/CS5001_Assignments/ProfessionalBios)
+7. [Budget](Final_Design_Report/CS5001_Assignments/Budget)
+8. [Appendix](Final_Design_Report/CS5001_Assignments/Appendix)
