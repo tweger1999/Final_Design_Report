@@ -9,7 +9,7 @@ In the present day, there exists a wide range of software tools intended to draw
 
 ## Table of Contents
 
-1. [Project Description](Final_Design_Report/CS5001_Assignments/ProjectDescription)
+1. [Project Description](CS5001_Assignments/ProjectDescription)
 2. User Stories and Design Diagrams
     1. [User Stories](Final_Design_Report/CS5001_Assignments/UserStories_DesignDiagrams/UserStories)
     2. [Design Diagrams](Final_Design_Report/CS5001_Assignments/UserStories_DesignDiagrams/DesignDiagrams)
