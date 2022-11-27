@@ -16,7 +16,7 @@ In the present day, there exists a wide range of software tools intended to draw
 3. Project Tasks and Timeline
     1. [Task List](CS5001_Assignments/ProjectTasksAndTimeline/TaskList)
     2. [Timeline](CS5001_Assignments/ProjectTasksAndTimeline/Timeline.csv)
-    3. [Effort Matrix](CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix.csv)
+    3. [Effort Matrix](CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix.pdf)
 4. [PPT Slideshow](CS5001_Assignments/PPT_Slideshow.csv)
 5. Self-Assessment Essays
     1. [Tristan Weger](CS5001_Assignments/PPT_Slideshow)
