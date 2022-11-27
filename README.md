@@ -22,7 +22,7 @@ In the present day, there exists a wide range of software tools intended to draw
     1. [Tristan Weger](CS5001_Assignments/SelfAssessmentEssays/TristanWeger)
     2. [Ryan Rubadue](CS5001_Assignments/SelfAssessmentEssays/RyanRubadue)
     3. [Yahya Emara](CS5001_Assignments/SelfAssessmentEssays/YahyaEmara)
-7. [Professional Biographies](CS5001_Assignments/ProfessionalBios)
+7. Professional Biographies
     1. [Tristan Weger](CS5001_Assignments/ProfessionalBios/TristanWeger)
     2. [Ryan Rubadue](CS5001_Assignments/ProfessionalBios/RyanRubadue)
     3. [Yahya Emara](CS5001_Assignments/ProfessionalBios/YahyaEmara)
