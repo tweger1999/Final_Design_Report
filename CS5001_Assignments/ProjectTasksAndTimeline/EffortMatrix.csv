@@ -1,0 +1,30 @@
+﻿Creating Semantic Spaces Using Document Clustering Effort Matrix,,,,
+"Yahya Emara, Tristan Weger, Ryan Rubadue",,,,
+,,,,
+Task,Ryan % Work,Tristan % Work ,Yahya % Work,Rough Total Task Hours
+Pick dataset to use,50,25,25,3
+Overview Entire code,33,33,33,10
+Create token parsing code,25,50,25,20
+Create token filtering network,25,50,25,8
+Embed tokens into high dimension semantic space,25,25,50,10
+Create code and network to cluster tokens,25,25,50,10
+Create a final tuned filter,50,25,25,10
+Create a cognitive map for 2D data,25,25,50,10
+Create a visual representation of ~50D data,25,25,50,3
+Prepare Final Presentation,33,33,33,5
+"Determine what kind of machine learning method to use (supervised, reinforcement, unsupervised, transfer, etc.)",25,50,25,3
+Run the clustering algorithm using the different data subset partitions.,25,50,25,3
+Select a cross validation method to get a more accurate rating of the performance of each model,25,50,25,2
+Interpret the clustering results and make adjustments if needed.,25,50,25,3
+Determine optimal amount of vector space reduction that can be achieved without losing anything above minimal classification data.,50,25,25,2.5
+Decide methodology of dimension reduction and document rationale behind choice.,50,25,25,3
+Actual implementation of dimension reduction.,50,25,25,7
+Compare application results when reducing to different numbers of dimensions.,50,25,25,4
+Document if the optimal number of dimensions is relatively consistent across different document embedding techniques.,50,25,25,2
+Design quality and informative visualizations for reduced 2D vector space.,50,25,25,2.5
+Potential. Employ different method/tool in order to reduce dimensions. Convey whether results remain consistent or differ.,50,25,25,5
+Break document into word pairs,25,25,50,5
+Break document into sentences,25,25,50,5
+Filter data to keep relevant word tokens,25,25,50,5
+Embed tokens into high dimensionality semantic vectors,25,25,50,10
+Compare embedding methods and optimize using the best method,25,25,50,5
