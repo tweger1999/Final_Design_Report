@@ -15,7 +15,7 @@ In the present day, there exists a wide range of software tools intended to draw
     2. [Design Diagrams](CS5001_Assignments/UserStories_DesignDiagrams/DesignDiagrams.pdf)
 3. Project Tasks and Timeline
     1. [Task List](CS5001_Assignments/ProjectTasksAndTimeline/TaskList)
-    2. [Timeline](CS5001_Assignments/ProjectTasksAndTimeline/Timeline)
+    2. [Timeline](CS5001_Assignments/ProjectTasksAndTimeline/Timeline.xlsx)
     3. [Effort Matrix](CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix)
 4. [PPT Slideshow](CS5001_Assignments/PPT_Slideshow)
 5. [Self-Assessment Essays](CS5001_Assignments/SelfAssessmentEssays)
