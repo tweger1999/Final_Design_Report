@@ -19,9 +19,9 @@ In the present day, there exists a wide range of software tools intended to draw
     3. [Effort Matrix](CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix.csv)
 4. [PPT Slideshow](CS5001_Assignments/PPT_Slideshow.pdf)
 5. Self-Assessment Essays
-    1. Tristan Weger
-    2. Ryan Rubadue
-    3. Yahya Emara
+    1. [Tristan Weger](CS5001_Assignments/SelfAssessmentEssays/TristanWeger)
+    2. [Ryan Rubadue](CS5001_Assignments/SelfAssessmentEssays/RyanRubadue)
+    3. [Yahya Emara](CS5001_Assignments/SelfAssessmentEssays/YahyaEmara)
 7. [Professional Biographies](CS5001_Assignments/ProfessionalBios)
 8. [Budget](CS5001_Assignments/Budget)
 9. [Appendix](CS5001_Assignments/Appendix)
