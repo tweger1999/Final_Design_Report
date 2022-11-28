@@ -4,10 +4,10 @@
 1. [Team Names](CS5001_Assignments/TeamNames.md)
 2. [Project Description](CS5001_Assignments/ProjectDescription.md)
 3. User Stories and Design Diagrams
-    1. [User Stories](CS5001_Assignments/UserStories_DesignDiagrams/UserStories)
+    1. [User Stories](CS5001_Assignments/UserStories_DesignDiagrams/UserStories.md)
     2. [Design Diagrams](CS5001_Assignments/UserStories_DesignDiagrams/DesignDiagrams.pdf)
 4. Project Tasks and Timeline
-    1. [Task List](CS5001_Assignments/ProjectTasksAndTimeline/TaskList)
+    1. [Task List](CS5001_Assignments/ProjectTasksAndTimeline/TaskList.md)
     2. [Timeline](CS5001_Assignments/ProjectTasksAndTimeline/Timeline.csv)
     3. [Effort Matrix](CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix.csv)
 5. [PPT Slideshow](CS5001_Assignments/PPT_Slideshow.pdf)
