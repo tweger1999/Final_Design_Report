@@ -8,7 +8,7 @@
     2. [Design Diagrams](CS5001_Assignments/UserStories_DesignDiagrams/DesignDiagrams.pdf)
 4. Project Tasks and Timeline
     1. [Task List](CS5001_Assignments/ProjectTasksAndTimeline/TaskList.md)
-    2. [Timeline](CS5001_Assignments/ProjectTasksAndTimeline/Timeline.csv)
+    2. [Timeline](CS5001_Assignments/ProjectTasksAndTimeline/TimelineGhantChart.xlsx)
     3. [Effort Matrix](CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix.csv)
 5. [PPT Slideshow](CS5001_Assignments/PPT_Slideshow.pdf)
 6. Self-Assessment Essays
