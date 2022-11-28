@@ -10,7 +10,7 @@ One thing that I could have done more of especially towards the beginning of the
 
 In a general sense, I feel confident in my ability to effectively contribute to a successful demo/completion of our project goals going forward into winter break and spring semester.
 
-### Team Collaboration
+## Team Collaboration
 
 Throughout the semester, I felt there was a healthy mix of individual work I accomplished to the work that our team collaborated on.
 In making decisions relative to the overall scope of the project I closely collaborated with the other team members as well as coordinated with our advisor. 
