@@ -1,5 +1,5 @@
-#### Members: Tristan Weger, Ryan Rubadue, Yahya Emara
-#### Academic Advisor: Ali Minai
+## Members: Tristan Weger, Ryan Rubadue, Yahya Emara
+## Academic Advisor: Ali Minai
 
 
 
