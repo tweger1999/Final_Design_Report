@@ -9,6 +9,7 @@
   - Write and test sections of code indivdually.
 ### Team Review:
   - We worked very well as a team.
+  - Our advisor is an expert in this field and was extremely helpful in getting us onto the right track and making sure we knew what to do.
   - Coding was done as a group and asssignments were split up and completed individually.
   - Moving forward, we will need to split up code individually in order to stay on track and reach our goals.
 ### Workload:
