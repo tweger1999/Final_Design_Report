@@ -9,7 +9,7 @@
 4. Project Tasks and Timeline
     1. [Task List](CS5001_Assignments/ProjectTasksAndTimeline/TaskList.md)
     2. [Timeline](CS5001_Assignments/ProjectTasksAndTimeline/TimelineGhantChart.xlsx)
-    3. [Effort Matrix](CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix.csv)
+    3. [Effort Matrix](CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix.xlsx)
 5. [PPT Slideshow](CS5001_Assignments/PPT_Slideshow.pdf)
 6. Self-Assessment Essays
     1. [Tristan Weger](CS5001_Assignments/SelfAssessmentEssays/TristanWeger.md)
