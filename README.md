@@ -17,7 +17,7 @@
     3. [Yahya Emara](CS5001_Assignments/SelfAssessmentEssays/YahyaEmara)
 7. Professional Biographies
     1. [Tristan Weger](CS5001_Assignments/ProfessionalBios/TristanWegerBio.md)
-    2. [Ryan Rubadue](CS5001_Assignments/ProfessionalBios/RyanRubadue)
-    3. [Yahya Emara](CS5001_Assignments/ProfessionalBios/YahyaEmara)
+    2. [Ryan Rubadue](CS5001_Assignments/ProfessionalBios/RyanRubadueBio.md)
+    3. [Yahya Emara](CS5001_Assignments/ProfessionalBios/YahyaEmaraBio.md)
 9. [Budget](CS5001_Assignments/Budget.md)
 10. [Appendix](CS5001_Assignments/Appendix)
