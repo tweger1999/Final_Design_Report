@@ -1,7 +1,8 @@
 ## Tristan Weger Self Assessment Essay
 
 ### Strengths
- #### - Worked well in a group.
+#### 
+  - Worked well in a group.
   - Motivated to get assignments done early.
   - Remained concentrated on the overall end goal of the project.
 ### Areas of Improvement
