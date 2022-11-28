@@ -12,12 +12,12 @@
     3. [Effort Matrix](CS5001_Assignments/ProjectTasksAndTimeline/EffortMatrix.csv)
 5. [PPT Slideshow](CS5001_Assignments/PPT_Slideshow.pdf)
 6. Self-Assessment Essays
-    1. [Tristan Weger](CS5001_Assignments/SelfAssessmentEssays/TristanWeger)
-    2. [Ryan Rubadue](CS5001_Assignments/SelfAssessmentEssays/RyanRubadue)
-    3. [Yahya Emara](CS5001_Assignments/SelfAssessmentEssays/YahyaEmara)
+    1. [Tristan Weger](CS5001_Assignments/SelfAssessmentEssays/TristanWeger.md)
+    2. [Ryan Rubadue](CS5001_Assignments/SelfAssessmentEssays/RyanRubadue.md)
+    3. [Yahya Emara](CS5001_Assignments/SelfAssessmentEssays/YahyaEmara.md)
 7. Professional Biographies
     1. [Tristan Weger](CS5001_Assignments/ProfessionalBios/TristanWegerBio.md)
     2. [Ryan Rubadue](CS5001_Assignments/ProfessionalBios/RyanRubadueBio.md)
     3. [Yahya Emara](CS5001_Assignments/ProfessionalBios/YahyaEmaraBio.md)
 9. [Budget](CS5001_Assignments/Budget.md)
-10. [Appendix](CS5001_Assignments/Appendix)
+10. [Appendix](CS5001_Assignments/Appendix.md)
