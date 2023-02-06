@@ -22,5 +22,4 @@
 9. [Budget](CS5001_Assignments/Budget.md)
 10. [Appendix](CS5001_Assignments/Appendix.md)
 11. User Documentation
-    1. [User Guide]()
-    2. [User Manual]()
+    1. [User Guide and Manuals]()
