@@ -22,7 +22,7 @@
 9. [Budget](CS5001_Assignments/Budget.md)
 10. [Appendix](CS5001_Assignments/Appendix.md)
 11. User Guide and Manuals
-    1. [Selecting Dataset]()
-    2. [System Setup and Program Running]()
-    3. [Understanding Results]()
+    1. [Selecting Dataset](CS5001_Assignments/UserDocumentation/Selecting_Dataset.pdf)
+    2. [System Setup and Program Running](CS5001_Assignments/UserDocumentation/System_Setup_Program_Running.pdf)
+    3. [Understanding Results](CS5001_Assignments/UserDocumentation/Understanding_Results.pdf)
     4. [Troubleshooting]()
