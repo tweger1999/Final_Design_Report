@@ -25,4 +25,4 @@
     1. [Selecting Dataset](CS5001_Assignments/UserDocumentation/Selecting_Dataset.pdf)
     2. [System Setup and Program Running](CS5001_Assignments/UserDocumentation/System_Setup_Program_Running.pdf)
     3. [Understanding Results](CS5001_Assignments/UserDocumentation/Understanding_Results.pdf)
-    4. [Troubleshooting]()
+    4. [Troubleshooting](CS5001_Assignments/UserDocumentation/Troubleshooting.pdf)
