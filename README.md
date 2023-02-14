@@ -21,7 +21,8 @@
     3. [Yahya Emara](CS5001_Assignments/ProfessionalBios/YahyaEmaraBio.md)
 9. [Budget](CS5001_Assignments/Budget.md)
 10. [Appendix](CS5001_Assignments/Appendix.md)
-11. User Guide and Manuals
+    1. [Code](https://github.com/yahya010/DocClustering/)
+12. User Guide and Manuals
     1. [Selecting Dataset](CS5001_Assignments/UserDocumentation/Selecting_Dataset.pdf)
     2. [System Setup and Program Running](CS5001_Assignments/UserDocumentation/System_Setup_Program_Running.pdf)
     3. [Understanding Results](CS5001_Assignments/UserDocumentation/Understanding_Results.pdf)
